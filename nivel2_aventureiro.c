@@ -2,6 +2,7 @@
 
 int main() {
   // Área para definição das variáveis
+  
   // 1ª Carta
   char estado1; 
   char codigo1[4];
