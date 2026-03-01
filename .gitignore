@@ -1,0 +1,16 @@
+# Ignorar executáveis
+*.out
+*.exe
+*.o
+
+# Ignorar binários sem extensão (como no mac)
+tema3-iniciante
+
+# Ignorar pasta de debug do macOS
+*.dSYM/
+
+# Ignorar pasta de output
+output/
+
+# Arquivos do VS Code (opcional)
+.vscode/
